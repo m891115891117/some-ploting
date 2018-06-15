@@ -1,6 +1,5 @@
 #Pengze Ma
 #Draw Boxplot of mean depth for tumor/normal sample
-#setwd("D://Working//百度项目//")
 
 
 library("xlsx")

@@ -1,5 +1,4 @@
 
-#setwd("D://Working/QC coverage/")
 
 library("xlsx")
 library(ggplot2)
